@@ -26,9 +26,7 @@ Este projeto permite que usuários adicionem nomes a uma lista e realizem o sort
 
 1. Clone o repositório:
 
-```
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
+challenge-amigo-secreto-nine-lac.vercel.app
 
 2. Abra o arquivo `index.html` no navegador
 
